@@ -1,0 +1,165 @@
+    1  ls
+    2  ls /data
+    3  /data
+    4   /data
+    5  ls /Downloads
+    6  ls data/
+    7  ls Documents/
+    8  ls Downloads/
+    9  ls /
+   10  pwd
+   11  mkdir umuzi_Bootcamp
+   12  cd umuzi_Bootcamp/
+   13  pwd
+   14  mkdir outer_directory
+   15  cd outer_directory/
+   16  mkdir inner_directory
+   17  cd inner_directory/
+   18  cd man/
+   19  cd outer_directory
+   20  cd /
+   21  pwd
+   22  cd mingw64/
+   23  cd man
+   24  pwd
+   25  cd  umuzi-Bootcamp
+   26  cd  umuzi-Bootcamp/
+   27  ls
+   28  pwd
+   29  cd ..
+   30  cd ls
+   31  ls
+   32  ls 
+   33  cd mingw64/
+   34  ls 
+   35  clear
+   36  cd ..
+   37  cd 
+   38  cd man
+   39  cd home/
+   40  ls
+   41  pwd
+   42  cd Documents/
+   43  ls
+   44  mkdir git-basc-exercises
+   45  cd git-basc-exercises/
+   46  ls -a
+   47  git init
+   48  ls -a
+   49  git status
+   50  touch README.md
+   51  ls -a 
+   52  git status
+   53  git log
+   54  git add
+   55  git add .
+   56  git status
+   57  git status
+   58  git commit -m "initial commit"
+   59  git config --global user.mqikelasinazo@gmail.com
+   60  git commit -m "initial commit"
+   61  git commit -m "initial commit"
+   62  git user.kiwokuhle
+   63  git config user.kiwokuhle
+   64  git config user.mqikelasinazo@gmail.com
+   65  git commit -m "initial commit"
+   66  git remote show origin
+   67  git commit -m "initial commit"
+   68  git log
+   69  q
+   70  nano README.md
+   71  cat README.md
+   72  git stats
+   73  git-stats
+   74  git log
+   75  git commit -m "second commit"
+   76  git add
+   77  git add .
+   78  git add *
+   79  git commit -m "second commit"
+   80  nao README.md
+   81  nano README.md
+   82  git add .
+   83  git commit -m "third commit"
+   84  git log
+   85  cat README.md
+   86  git add *
+   87  git commit -m "third commit"
+   88  git log
+   89  git shortlog -sn
+   90  git shortlog
+   91  git log
+   92  ls
+   93  cd Downloads/
+   94  mkdir umuziBootcamp
+   95  cd umuziBootcamp/
+   96  mkdir git-basic-exercises
+   97  ls -a
+   98  cd git-basic-exercises/
+   99  ls -a
+  100  git init
+  101  ls -a
+  102  git status
+  103  touch README.md
+  104  ls -a
+  105  git log
+  106  git add .
+  107  git status
+  108  git status
+  109  git commit -m "initial commit"
+  110  nano README.md
+  111  cat README.d
+  112  cat README.md
+  113  git stats
+  114  git status
+  115  git add .
+  116  git commit -m "second commit"
+  117  nano README.md
+  118  git add .
+  119  git commit -m "third commit"
+  120  git log
+  121  git log -stat
+  122  git log --stat
+  123  git log -p -2
+  124  git log -p -1
+  125  git log -p -3
+  126  git log -p
+  127  git add *
+  128  git commit -m "second commit"
+  129  nano README.md
+  130  git add *
+  131  git commit -m "second commit"
+  132  git log
+  133  git log
+  134  git checkout
+  135  cat README.md
+  136  git checkout main
+  137  cat README.md
+  138  git checkout
+  139  main
+  140  git checkout main
+  141  cat README.d
+  142  cat README.md
+  143  git branch
+  144  git checkout master
+  145  git branch milshake-flovours *
+  146  git branch milshake-flovours 
+  147  git branch
+  148  git checkout milshake-flovours 
+  149  git branch -m milkshake-flavours
+  150  git checkout
+  151  git branch
+  152  git checkout master
+  153  git branch
+  154  git checkout milkshake-flavours 
+  155  nano milkshakes.md
+  156  git status
+  157  git add .
+  158  git commit -m "added initial flavours"
+  159  git checkout master
+  160  git checkout
+  161  git branch history 
+  162  git checkout history 
+  163  git log
+  164  git branch
+  165  history > history.txt
